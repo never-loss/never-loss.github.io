@@ -1,7 +1,0 @@
-name = "never-loss"
-main = "worker.js"
-compatibility_date = "2026-09-18"
-
-[[kv_namespaces]]
-binding = "NEVER_LOSS_KV"
-id = "COLOCAR_KV_ID_AQUI"
